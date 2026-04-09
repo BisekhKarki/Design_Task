@@ -104,7 +104,7 @@ export default function Home() {
               bgColor="bg-[#5492A0] z-10"
               imagePosition="right"
               imageUrl={user2}
-              imageWidthHeigth="w-46 -right-5 top-0"
+              imageWidthHeigth="w-46 -right-5 top-0 z-10"
               heading="Learn by Doing"
               secondHead="Practical skills, real projects."
               paragraph="Theory is great, but action is better. At SkillShikshya, you learn by doing. Hands-on projects and real-world scenarios help you build, break, and create—leading to true mastery."
